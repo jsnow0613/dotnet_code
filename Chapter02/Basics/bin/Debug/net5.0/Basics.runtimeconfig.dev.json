@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/jsnow-pc/.dotnet/store/|arch|/|tfm|",
+      "/Users/jsnow-pc/.nuget/packages"
+    ]
+  }
+}
